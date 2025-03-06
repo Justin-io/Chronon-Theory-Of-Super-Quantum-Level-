@@ -28,7 +28,7 @@ The study provides a **rigorous mathematical formulation** and explores **potent
 - [📝 Full Mathematical Derivation](#-full-mathematical-derivation)  
 - [📌 Conclusion & Future Work](#-conclusion--future-work)  
 - [📄 Read the Full Paper](#-read-the-full-paper)  
-- [🛡️ Copyright & Usage](#-copyright--usage)  
+- [🛡️ Copyright & License](#-copyright--license)  
 
 ---
 
@@ -106,18 +106,6 @@ To ensure the validity of this theory, we propose multiple falsifiable tests. If
 For those interested in the **raw mathematics**, all derivations, transformations, and equations are presented in **Section 6** of the research paper.  
 
 \[
-t = n \tau_c, \quad n \in \mathbb{Z}
-\]
-
-\[
-\delta E_g = \alpha S_g \cdot V^{-1}
-\]
-
-\[
-H_{SQL} = H_0 + \xi S_g \cdot \frac{\partial}{\partial t}
-\]
-
-\[
 C_s = \int_{T_q}^{\infty} \left( \frac{\partial S_q}{\partial E_c} \right) dT_q
 \]
 
@@ -137,18 +125,36 @@ C_s = \int_{T_q}^{\infty} \left( \frac{\partial S_q}{\partial E_c} \right) dT_q
 ---
 
 ## 📄 **Read the Full Paper**  
-🔗 **[Download the PDF](./Chronon Theory By Justin.pdf)**  
+🔗 **[Download the PDF](./Chronons(Cs).pdf)**  
 
 📢 **Contributions and discussions are welcome!**  
 
 ---
 
-## 🛡️ **Copyright & Usage**  
-⚠️ **Copyright © 2025 Harinandan K.**  
-This research is the intellectual property of the author. Unauthorized reproduction, distribution, or modification is strictly prohibited.  
+## 🛡️ **Copyright & License**  
+⚠️ **Chronon-SQL Research License (CSRL-1.0)**  
 
-For academic citations or collaboration inquiries, contact: **[harinandan.ofc@gmail.com](mailto:harinandan.ofc@gmail.com)**  
+This research is **protected under a custom license** that prevents unauthorized reproduction, modification, or misattribution.  
+
+📜 **You MAY:**  
+✔ Cite and reference this work for academic purposes.  
+✔ Use for personal study and theoretical exploration.  
+
+🚫 **You MAY NOT:**  
+❌ Claim authorship of this research.  
+❌ Modify or rewrite the mathematical framework without proper credit.  
+❌ Monetize, patent, or use for corporate/government acquisition without permission.  
+
+Violations will be enforced under:  
+📜 **Berne Convention | WIPO Copyright Treaty | DMCA | Universal Copyright Convention**  
+
+For collaboration requests, citations, or permissions, contact: **[harinandan.ofc@gmail.com](mailto:harinandan.ofc@gmail.com)**  
 
 ---
 
-This `README.md` is **GitHub-optimized**, ensuring clear structure, proper formatting, and strong intellectual property protection. Let me know if you need any refinements before uploading! 🚀
+### ✅ **How to Use This License in Your Repo:**  
+Save the **full license text** as **`LICENSE.md`** and reference it in this README:  
+```md
+📜 This research is protected under the **Chronon-SQL Research License (CSRL-1.0)**.  
+Unauthorized use, modification, or misattribution is strictly prohibited.  
+See [LICENSE.md](./LICENSE.md) for full terms.
