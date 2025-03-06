@@ -137,7 +137,7 @@ C_s = \int_{T_q}^{\infty} \left( \frac{\partial S_q}{\partial E_c} \right) dT_q
 ---
 
 ## 📄 **Read the Full Paper**  
-🔗 **[Download the PDF](./.pdf)**  
+🔗 **[Download the PDF](./Chronon Theory By Justin.pdf)**  
 
 📢 **Contributions and discussions are welcome!**  
 
